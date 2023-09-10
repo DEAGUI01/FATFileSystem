@@ -16,6 +16,8 @@ In this lab I investigate common file systems utilized by Windows. It includes t
 - <b>Autopsy Forensic Browser</b>
 
 <h2>Environments Used </h2>
+- <b>InfoSec Learning Labs</b> 
+<br />
 - <b>Windows 7 Pro</b> 
 <br />
 - <b>Kali 2 Linux</b>
